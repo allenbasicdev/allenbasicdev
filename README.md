@@ -11,3 +11,5 @@ VEX V5RC
 Discord: allenbasic \
 Itch.io: <https://allen-basic.itch.io/> \
 Email: <allenbasicdev@gmail.com>
+
+![Profile Picture](https://github.com/allenbasicdev/allenbasicdev/blob/main/mWfUsp.png?raw=true)
