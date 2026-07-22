@@ -12,6 +12,6 @@ Discord: allenbasic \
 Itch.io: <https://allen-basic.itch.io/> \
 Email: <allenbasicdev@gmail.com>
 
-<img src="https://github.com/allenbasicdev/allenbasicdev/blob/main/mWfUsp.png?raw=true" width="100"></img>
+<img src="https://github.com/allenbasicdev/allenbasicdev/blob/main/new2.jpg?raw=true" width="100"></img>
 
 
