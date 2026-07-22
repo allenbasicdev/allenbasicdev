@@ -2,11 +2,13 @@
 
 **allenbasicdev/allenbasicdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-University of Toronto Schools student, math and coding enthusiast, aspiring gamedev
+Hello! AllenBasic here
+
+University of Toronto Schools student, math, coding, Classics and music enthusiast, aspiring gamedev.
 
 Python, C++, C#, HTML, a bit of CSS \
 Unity \
-VEX V5RC
+VEX V5RC 19109G
 
 Discord: allenbasic \
 Itch.io: <https://allen-basic.itch.io/> \
